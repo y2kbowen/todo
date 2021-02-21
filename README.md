@@ -1,6 +1,7 @@
 # Todo
 
 This project was generated with [Angular CLI](https://github.com/angular/angular-cli) version 11.1.2.
+This project is the code I wrote to learn Spring Booot and Angular from a class called "Go Java Full Stack with Spring Boot and Angular on Udemy from a group called in28minutes.
 
 ## Development server
 
